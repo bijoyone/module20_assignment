@@ -1,3 +1,3 @@
-## Assigment 20
+## Assignment 20
 
 ### Product Management System in Laravel- CRUD
